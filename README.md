@@ -7,5 +7,5 @@
 
 <p align="center">
 <a href="https://twitter.com/jnralb1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jnralb1" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/junior-albuquerque" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="junior-albuquerque" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/júnior-albuquerque-9171b0153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="junior-albuquerque" height="20" width="20" /></a>
 </p>
