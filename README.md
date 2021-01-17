@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junioralbuquerque" alt="junioralbuquerque" /> </p>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img 
 <img src="https://github-readme-stats.vercel.app/api?username=junioralbuquerque&show_icons=true" alt="junioralbuquerque" /> </p>
 
 <p align="center">
