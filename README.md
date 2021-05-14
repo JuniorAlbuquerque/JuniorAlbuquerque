@@ -1,13 +1,5 @@
-<h1 align="center">Hi 👋, I'm Junior Albuquerque</h1>
-<h3 align="center">A passionate frontend developer from Amazonas</h3>
+<h1>Hi 👋, I'm Junior Albuquerque</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junioralbuquerque" alt="junioralbuquerque" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-Junior%20Albuquerque-78F8AB?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/junior-albuquerque/)](https://www.linkedin.com/in/junior-albuquerque/) 
+[![Gmail Badge](https://img.shields.io/badge/-jnralb.dev@gmail.com-78F8AB?style=flat-square&logo=Gmail&logoColor=black&link=mailto:jnralb.dev@gmail.com)](mailto:jnralb.dev@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=junioralbuquerque&show_icons=true" alt="junioralbuquerque" /> </p>
-
-<p align="center">
-<a href="https://twitter.com/jnralb1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jnralb1" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/júnior-albuquerque-9171b0153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="junior-albuquerque" height="20" width="20" /></a>
-  
-<a href="https://junioralbuquerque.github.io/jnr/" algign="center" target="_blank">Website (In development)</a>
-</p>
