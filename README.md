@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Senior Software Engineer Frontend at [ConexasSaude]https://www.conexasaude.com.br/) <br>🏕 Born in Parintins, Amazonas - Brazil</p>
+👨🏻‍💻 Senior Software Engineer Frontend at [Conexa Saude](https://www.conexasaude.com.br/) <br>
+🏕 Born in Parintins, Amazonas - Brazil<br>
 
 ###
 
