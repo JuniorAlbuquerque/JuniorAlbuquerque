@@ -1,7 +1,25 @@
-<h1>Hi 👋, I'm Ednilson Albuquerque</h1>
+<h3 align="left">Hi, I'm Ednilson! 👋</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Junior%20Albuquerque-78F8AB?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/junior-albuquerque/)](https://www.linkedin.com/in/junior-albuquerque/) 
-[![Gmail Badge](https://img.shields.io/badge/-jnralb.dev@gmail.com-78F8AB?style=flat-square&logo=Gmail&logoColor=black&link=mailto:jnralb.dev@gmail.com)](mailto:jnralb.dev@gmail.com)
+###
 
-Hi, my name is Ednilson Albuquerque, native of Parintins, Amazonas - Brazil. I have a degree in Software Engineering, I work as a front-end developer and in my spare time I am a "musician" and enthusiast in design, UI and UX
+<p align="left">👨🏻‍💻 Senior Software Engineer Frontend at [ConexasSaude]https://www.conexasaude.com.br/) <br>🏕 Born in Parintins, Amazonas - Brazil</p>
 
+###
+
+<p align="left">Find me!</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/junior-albuquerque/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=78F8AB&logoColor=black&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jnralb1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=78F8AB&logoColor=black&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
+  </a>
+  <a href="https://www.behance.net/jnioralbuque" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=78F8AB&logoColor=black&labelColor=&style=for-the-badge" height="20" alt="behance logo"  />
+  </a>
+</div>
+
+###
