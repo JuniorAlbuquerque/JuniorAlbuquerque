@@ -4,6 +4,7 @@
 
 👨🏻‍💻 Senior Software Engineer Frontend at [Conexa Saude](https://www.conexasaude.com.br/) <br>
 🏕 Born in Parintins, Amazonas - Brazil<br>
+🏠 Living in Campinas, São Paulo
 
 ###
 
